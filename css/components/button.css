@@ -1,0 +1,14 @@
+.main-button {
+	background-color: #BE2B28;
+  	color: white;
+  	padding: 7px 10px;
+  	border-radius: 8px;
+	box-shadow: 2px;
+	opacity: 0.8
+
+
+}
+
+.main-button:hover {
+	color: black;
+}

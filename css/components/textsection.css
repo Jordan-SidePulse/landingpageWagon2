@@ -1,0 +1,20 @@
+.textsection {
+	box-shadow: 10px 10px 30px rgba(0,0,0,0.15); /* angle ? blur et couleur */
+	display: flex;
+	align-items: center; /* align on the vertical axis*/
+	justify-content: space-around
+	border-radius: 8px; /* Pour arrondir les angles */
+	margin: 20px 140px;
+	flex-basis: 500px;
+	background-color: rgba(190, 43, 40, 0.1);
+}
+
+}
+
+.textsection p {
+  font-family: Lara;
+  text-align: justify;
+  text-align: right;
+}
+
+}
